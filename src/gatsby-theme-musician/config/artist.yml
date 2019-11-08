@@ -1,22 +1,15 @@
 artist:
-  name: Your Awesome Band
-  tagline: Short information about your group, new album, etc
+  name: Jonas Williams
+  # tagline: Jonas is a reggae singer living in Groningen, the Netherlands
   # seo_title:
   # seo_description:
   # contact_twitter_username:
-  # contact_phone: 
-  # contact_email: 
+  contact_phone: 0031623432432
+  contact_email: jroos7@gmail.com
 
 social:
-  - name: Facebook
-    url: https://facebook.com
-  - name: Instagram
-    url: https://instagram.com
-  - name: Twitter
-    url: https://twitter.com
   - name: Youtube
-    url: https://youtube.com
-  - name: Spotify
-    url: https://spotify.com
+    url: https://youtube.com/channel/UCBHincbiDJxDoHjTdpMQ5Sg
+  
 
 site_language: en
